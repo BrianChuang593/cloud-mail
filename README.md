@@ -1,9 +1,9 @@
 <p align="center">
     <img src="doc/demo/logo.png" width="80px" />
     <h1 align="center">Cloud Mail</h1>
-    <p align="center">基于 Cloudflare 的简约响应式邮箱服务，支持邮件发送、附件收发 🎉</p> 
+    <p align="center">基於 Cloudflare 的簡約響應式信箱服務,支援郵件寄送、附件收發  🎉</p> 
     <p align="center">
-        简体中文 | <a href="/README-en.md" style="margin-left: 5px">English </a>
+        繁體中文 | <a href="/README-en.md" style="margin-left: 5px">English </a>
     </p>
     <p align="center">
         <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
@@ -30,14 +30,13 @@
 </p>
 
 
-## 项目简介
+## 專案簡介
 
-只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers ，降低服务器成本，搭建自己的邮箱服务
+只需要一個網域名稱,就可以創建多個不同的郵箱,類似各大郵箱平台,本項目支持署到 Cloudflare Workers ,降低伺服器成本,搭建自己的郵箱服務
+## 項目展示
 
-## 项目展示
-
-- [在线演示](https://skymail.ink)<br>
-- [部署文档](https://doc.skymail.ink)<br>
+- [線上示範](https://www.pomail.eu.cc)<br>
+  
 
 | ![](/doc/demo/demo1.png) | ![](/doc/demo/demo2.png) |
 |-----------------------|-----------------------|
