@@ -3,7 +3,7 @@
     <h1 align="center">Cloud Mail</h1>
     <p align="center">基於 Cloudflare 的簡約響應式信箱服務,支援郵件寄送、附件收發  🎉</p> 
     <p align="center">
-        繁體中文 | <a href="/README-en.md" style="margin-left: 5px">English </a>
+        简体中文 | <a href="/README-en.md" style="margin-left: 5px">English </a>
     </p>
     <p align="center">
         <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
